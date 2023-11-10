@@ -4,10 +4,12 @@
   "license": "MIT",
   "scripts": {},
   "private": true,
-  "dependencies": {},
   "devDependencies": {
     "@nx/js": "17.1.1",
-    "nx": "17.1.1"
+    "nx": "17.1.1",
+    "semantic-release": "^22.0.7",
+    "semantic-release-monorepo": "^7.0.5",
+    "typescript": "^5.2.2"
   },
   "workspaces": [
     "packages/*"
