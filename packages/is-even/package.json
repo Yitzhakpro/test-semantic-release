@@ -2,8 +2,11 @@
     "name": "is-even",
     "version": "0.0.0",
     "main": "dist/index.js",
-    "devDependencies": {},
+    "devDependencies": {
+        "semantic-release": "^22.0.7",
+        "semantic-release-monorepo": "^7.0.5"
+    },
     "scripts": {
-      "build": "tsc index.ts --outDir dist"
+        "build": "tsc index.ts --outDir dist"
     }
-  }
+}
