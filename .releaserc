@@ -1,7 +1,6 @@
 {
     "release": {
-        "branches": ["master"]
+        "branches": ["master", "next"]
     },
-    "repositoryUrl": "https://github.com/Yitzhakpro/Shorti",
-    "extends": "semantic-release-monorepo"
+    "repositoryUrl": "https://github.com/Yitzhakpro/test-semantic-release"
 }
